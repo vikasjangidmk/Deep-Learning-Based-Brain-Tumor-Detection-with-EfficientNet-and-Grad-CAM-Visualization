@@ -6,3 +6,6 @@ seaborn
 scikit-learn
 statsmodels
 xgboost
+tqdm
+imutils
+opencv-python
