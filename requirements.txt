@@ -9,3 +9,4 @@ xgboost
 tqdm
 imutils
 opencv-python
+tensorflow
